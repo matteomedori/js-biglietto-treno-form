@@ -1,0 +1,19 @@
+body {
+  background-color: green;
+}
+
+form,
+.bg-red {
+  background-color: rgba(255, 0, 0, 0.622);
+}
+
+table {
+  background-color: white;
+}
+
+th:first-of-type,
+td:first-of-type {
+  background-color: green;
+  color: white;
+  height: 50px;
+}
